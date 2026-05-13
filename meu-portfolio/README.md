@@ -26,7 +26,7 @@ A seção de projetos exibe cards com imagens, descrições e links para os repo
 - Seção de habilidades técnicas
 - Seção de contatos
 - Layout organizado com componentes reutilizáveis
-- Estilização modular com CSS Modules
+- Estilização com CSS Modules
 
 ## Objetivo
 
@@ -41,3 +41,8 @@ Projeto em desenvolvimento, com melhorias contínuas no layout, responsividade, 
 cd meu-portfolio
 npm install
 npm run dev
+
+
+## Deploy do projeto na Vercel 
+
+https://meu-portfolio-7pukzcno9-dennisbjorssons-projects.vercel.app
