@@ -19,8 +19,7 @@ export function CardPortfolio({portfolios}: Props) {
                
                 {portfolios.map((portfolio) => (
                     <div className={styles.card} key={portfolio.id}>
-                        <img src={portfolio.image}
-                         alt="Portfolio Image" className={styles.imagemCard} />
+                        <img src="/perfil.webp" alt="Portfolio Image" className={styles.imagemCard} />
                         
                         <p className={styles.descricaoCard}>{portfolio.descricao}</p>
 
