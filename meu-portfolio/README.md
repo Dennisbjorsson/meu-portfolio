@@ -45,4 +45,4 @@ npm run dev
 
 ## Deploy do projeto na Vercel 
 
-https://meu-portfolio-7pukzcno9-dennisbjorssons-projects.vercel.app
+https://meu-portfolio-bnagp84w8-dennisbjorssons-projects.vercel.app
