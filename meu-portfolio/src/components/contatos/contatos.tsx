@@ -26,7 +26,16 @@ const Contatos = () => {
           <div className={styles.card}>
             <h3>LinkedIn</h3>
             <p>linkedin.com/in/seu-perfil</p>
+            
           </div>
+
+          <form className={styles.form}>
+            <input type="email" placeholder="email" />
+            <input type="text" placeholder="Assunto" />
+            <textarea placeholder="Sua mensagem"></textarea>
+            <button type="submit">Enviar</button>
+          </form>
+        
         </div>
       </div>
     </section>

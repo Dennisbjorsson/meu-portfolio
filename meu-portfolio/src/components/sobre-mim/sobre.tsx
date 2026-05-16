@@ -5,7 +5,7 @@ import style from './sobre.module.css';
 const SobreMim = () => {
 
     return(
-        <section className={style.hero}>
+        <section className={style.hero} id="sobre">
             <div className={style.heroContainer}>
                 <img src="/perfil.webp" alt="Foto de Perfil" className={style.foto_perfil} />
                 <p className={style.subtitulo}>Óla eu sou</p>

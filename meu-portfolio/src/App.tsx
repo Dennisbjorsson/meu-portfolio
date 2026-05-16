@@ -11,15 +11,16 @@ function App() {
   
 
   return (
-    <>
-    <Header />
-    <SobreMim />
-    <CardPortfolio portfolios={projetos} />
-    <Habilidades />
-    <Contatos />
+    <section id="home">
+
+      <Header />
+      <SobreMim />
+      <CardPortfolio portfolios={projetos} />
+      <Habilidades />
+      <Contatos />
     <Footer />  
 
-    </>
+    </section>
   )
 }
 
